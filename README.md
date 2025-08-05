@@ -76,3 +76,25 @@ Select the product category
 View a visual forecast of the next 6 months
 Download forecast data for planning meetings
 Understand which features influence demand most.
+
+Project: SupplyPredict – Retail Sales Forecasting App
+Live Demo: https://supplypredict-9mpcqzertslhpzcutcb5lq.streamlit.app/
+
+
+
+
+What I learnt:
+
+Handling missing data and feature engineering
+
+Label encoding and ML modeling with XGBoost
+
+Model evaluation using MAE & RMSE
+
+Saving and loading .pkl models
+
+Building Streamlit front-end
+
+Deploying ML apps to production with Git & Streamlit Cloud
+
+
